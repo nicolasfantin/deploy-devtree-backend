@@ -1,7 +1,7 @@
 {
   "name": "devtree",
   "version": "1.0.0",
-  "description": "Primer Proyecto con Express y TypeScript",
+  "description": "Proyecto con Express y TypeScript",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.ts",
