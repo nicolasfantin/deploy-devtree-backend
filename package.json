@@ -9,7 +9,7 @@
     "build": "tsc",
     "start": "node dist/index.js"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Nicolas Fantin",
   "license": "ISC",
   "dependencies": {
     "-": "^0.0.1",
